@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "laptop",
+      "unitCost": 800,
+      "unitPrice": 1200,
+      "store": "Electronics Store",
+      "counter": 50,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "productName": "vivo",
+      "unitCost": 300,
+      "unitPrice": 500,
+      "store": "Mobile Store",
+      "counter": 100,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "productName": "Coffee Maker",
+      "unitCost": 40,
+      "unitPrice": 80,
+      "store": "Home Appliances Store",
+      "counter": 25,
+      "category": "Appliances"
+    },
+    {
+      "id": 4,
+      "productName": "Running Shoes",
+      "unitCost": 25,
+      "unitPrice": 60,
+      "store": "Sporting Goods Store",
+      "counter": 75,
+      "category": "Sports"
+    },
+    {
+      "id": 5,
+      "productName": "Desk Chair",
+      "unitCost": 60,
+      "unitPrice": 100,
+      "store": "Furniture Store",
+      "counter": 30,
+      "category": "Furniture"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "productName": "hjk",
+      "category": "bmjkj",
+      "counter": 0,
+      "store": "",
+      "unitCost": 0,
+      "unitPrice": "88",
+      "id": 8
+    },
+    {
+      "productName": "coffee",
+      "category": "drinking",
+      "counter": 0,
+      "store": "",
+      "unitCost": 0,
+      "unitPrice": "100",
+      "id": 9
+    },
+    {
+      "productName": "gjsd",
+      "category": "fshd",
+      "counter": 0,
+      "store": "",
+      "unitCost": 0,
+      "unitPrice": 0,
+      "id": 10
+    }
+  ],
+  "categories": []
+}
